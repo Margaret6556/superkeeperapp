@@ -2,6 +2,7 @@
 import React from "react";
 import Card from "./Card";
 import coolcontacts from "../coolcontacts.js";
+import "./App.css";
 
 export default function App() {
   return (
